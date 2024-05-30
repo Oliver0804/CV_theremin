@@ -14,7 +14,7 @@ conda create -n theremin_env python=3.9
 conda activate theremin_env
 
 # 安裝所需的 Python 庫
-pip install opencv-python numpy mediapipe pyaudio
+pip install -r requirements.txt
 ```
 
 ## 使用說明
